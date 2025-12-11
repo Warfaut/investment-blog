@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📘 Investment & Business Analytics Blog
 
 Welcome to my personal workspace for investment research, financial analysis, and Python-based analytics.
@@ -72,4 +71,3 @@ Everything here evolves as I learn.
 ## 📫 Contact  
 **LinkedIn:** https://www.linkedin.com/in/enzub  
 **Email:** enzubkoff@gmail.com
-EOF
