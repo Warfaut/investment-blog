@@ -20,7 +20,7 @@ Deep dives into public companies, including:
 - Valuation (DCF + multiples)
 - Investment thesis
 
-📁 Folder: [/company-analyses](/company-analyses)
+📁 Folder:
 
 - [Adyen – Financial Overview (H2 2023 → H1 2025)](Adyen/company-analyses/adyen_financial_overview.md)
 
