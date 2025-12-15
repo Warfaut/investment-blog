@@ -48,3 +48,21 @@ terminal deployment.
 | 2026E | 2,521 | 6% | 151 |
 | 2027E | 2,848 | 6% | 171 |
 | 2028E | 3,158 | 6% | 189 |
+
+## 3. Working Capital Assumptions
+
+Adyen’s business model involves limited structural working capital
+requirements, as merchant balances and settlement flows do not
+represent operating working capital.
+
+In the base case, changes in net working capital are assumed to be neutral
+over the forecast period.
+
+### Working Capital Impact
+
+| Year | Change in Net Working Capital |
+|------|-------------------------------|
+| 2025E | 0 |
+| 2026E | 0 |
+| 2027E | 0 |
+| 2028E | 0 |
