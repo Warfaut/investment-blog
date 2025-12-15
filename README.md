@@ -10,18 +10,19 @@ This repository serves as a structured collection of:
 
 ---
 
-## 📂 Blog Sections
-
 ### 🔍 **Company Analyses**
+
 Deep dives into public companies, including:
-- Business model overview  
-- Revenue & margin analysis  
-- Competitive landscape  
-- Growth drivers and risks  
-- Valuation (DCF + multiples)  
-- Investment thesis  
+- Business model overview
+- Revenue & margin analysis
+- Competitive landscape
+- Growth drivers and risks
+- Valuation (DCF + multiples)
+- Investment thesis
 
 📁 Folder: [/company-analyses](/company-analyses)
+
+- [Adyen – Financial Overview (H2 2023 → H1 2025)](Adyen/company-analyses/adyen_financial_overview.md)
 
 ---
 
