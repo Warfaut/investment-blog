@@ -105,6 +105,22 @@ Key drivers:
 
 ---
 
+## Phase 2 Complete — Operating Forecast (Base Case)
+
+This section establishes Adyen’s base-case operating outlook, including:
+- Revenue forecast by segment (Digital, Unified Commerce, Platforms)
+- Explicit segment-level growth assumptions (2026E–2028E)
+- EBITDA margin trajectory aligned with management guidance
+- Resulting EBITDA forecast in absolute terms
+
+All figures beyond 2025E are illustrative and intended to provide directional insight.
+They do not represent a final valuation or investment recommendation.
+
+The next phase of the model focuses on converting operating performance into
+Free Cash Flow through an EBIT-to-FCF bridge.
+
+---
+
 # 5. Operating Income (EBIT)
 
 EBIT is projected after adjusting EBITDA for:
