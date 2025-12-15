@@ -21,7 +21,7 @@ Adyen's revenue will be projected using a combination of:
 | Year | Digital Revenue | Unified Commerce Revenue | Platforms Revenue | Total Net Revenue | YoY Growth |
 |------|-----------------|---------------------------|--------------------|--------------------|------------|
 | 2024A | — | — | — | — | — |
-| 2025E | — | — | — | — | — |
+| 2025E | 1,278 | 668 | 241 | 2,187 | — |
 | 2026E | — | — | — | — | — |
 | 2027E | — | — | — | — | — |
 | 2028E | — | — | — | — | — |
@@ -89,7 +89,7 @@ Key drivers:
 | Year | Revenue | EBITDA | EBITDA Margin |
 |------|----------|---------|----------------|
 | 2024A | — | — | — |
-| 2025E | — | — | — |
+| 2025E | 2,187 | 1,094 | 50% |
 | 2026E | — | — | — |
 | 2027E | — | — | — |
 | 2028E | — | — | — |
