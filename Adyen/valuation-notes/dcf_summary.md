@@ -22,9 +22,9 @@ and discounting methodology.
 
 | Year | Free Cash Flow |
 |------|----------------|
-| 2025E | — |
-| 2026E | — |
-| 2027E | — |
+| 2025E | 717 |
+| 2026E | 845 |
+| 2027E | 975 |
 | 2028E | 1,105 |
 
 *Note: FCF figures are derived from the operating forecast and EBIT-to-FCF bridge.*
@@ -35,10 +35,10 @@ and discounting methodology.
 
 | Year | Discount Factor (8.8%) |
 |------|------------------------|
-| 2025E | — |
-| 2026E | — |
-| 2027E | — |
-| 2028E | — |
+| 2025E | 0.919 |
+| 2026E | 0.845 |
+| 2027E | 0.776 |
+| 2028E | 0.713 |
 
 ---
 
@@ -46,9 +46,9 @@ and discounting methodology.
 
 | Component | Present Value |
 |----------|---------------|
-| PV of explicit FCF | — |
-| PV of terminal value | — |
-| **Enterprise Value (EV)** | **—** |
+| PV of explicit FCF | 2,918 |
+| PV of terminal value | 12,834 |
+| **Enterprise Value (EV)** | **15,752** |
 
 ---
 
