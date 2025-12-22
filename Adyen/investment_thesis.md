@@ -1,7 +1,7 @@
 # 💡 Investment Thesis — Adyen N.V.
 
-This investment thesis is based solely on Adyen’s official filings (H1 2025 Shareholder Letter, Q1 2025 Update, Annual Reports) and reflects the company’s fundamental strengths and long-term competitive position. Quantitative valuation will be added later.
-
+**TL;DR:**  
+A conservative DCF valuation of Adyen implies an intrinsic value of ~€750 per share, materially below the current market price of ~€1,500+. A reverse DCF indicates that the market is implicitly pricing in long-term terminal growth of ~6%, well above long-term nominal GDP and the base-case assumption of 2.5%. Peer multiples confirm that Adyen trades at a significant premium to global payment peers, reflecting superior margins, growth durability, and perceived infrastructure-quality cash flows. While the business remains best-in-class, current valuation leaves limited margin of safety for valuation-driven investors.
 ---
 
 # 1. Strong and Consistent Revenue Growth Across Segments
