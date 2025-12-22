@@ -83,6 +83,24 @@ This places the current valuation toward the upper end of the reasonable intrins
 
 ---
 
+## Market Valuation vs DCF Base Case
+
+At the current market price (~€1,580 per share), Adyen trades at:
+
+- ~21x EV/EBITDA (TTM)
+- ~13x EV/Sales
+- ~30x forward P/E
+
+Under the base-case DCF assumptions (WACC 8.8%, g 2.5%), intrinsic equity value is estimated at ~€750 per share, implying that the market price embeds:
+
+- structurally lower cost of capital, and/or
+- materially higher long-term growth, and/or
+- sustained premium profitability beyond the explicit forecast period.
+
+This divergence suggests that valuation risk, rather than operational execution, is the primary driver of expected returns at current levels.
+
+---
+
 ## Investment Takeaway
 
 Under a disciplined base-case DCF framework, **Adyen appears fairly valued to moderately overvalued**.
