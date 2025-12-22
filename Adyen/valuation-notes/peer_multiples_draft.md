@@ -88,23 +88,29 @@ Adyen trades at a material premium to global payment peers, reflecting superior 
 
 
 
-# 5. Implied Valuation Range (Template)
+## 5. Implied Valuation Range (Directional)
 
-Adyen’s implied valuation will be derived by applying peer multiples to its:
+Based on a comparative review of public peers (PayPal, Block, Global Payments, Fiserv), Adyen trades at a clear premium across most valuation metrics, reflecting its superior margins, growth profile, and balance sheet strength.
 
-- Net Revenue  
-- EBITDA  
-- EBIT  
-- Net Income  
+The table below presents a **directional implied valuation range** derived from observed peer multiples.
+
 
 ### Template Table
 
 | Multiple Type | Low | Base | High |
-|----------------|-----|------|-------|
-| EV/Sales | — | — | — |
-| EV/EBITDA | — | — | — |
-| P/E | — | — | — |
-| FCF Yield | — | — | — |
+|---------------|-----|------|------|
+| EV/Sales | Mature processors (GPN, FISV) | Adyen at current multiple | Premium SaaS-like PSP |
+| EV/EBITDA | PayPal / GPN range | Adyen current | Long-duration compounder |
+| P/E | Traditional payments | Adyen current | Structural growth premium |
+| FCF Yield | Cash generative peers | Adyen current | Best-in-class durability |
+
+Across EV/Sales and EV/EBITDA multiples, Adyen trades meaningfully above mature payment processors such as Global Payments and Fiserv, and at a premium to PayPal, reflecting its structurally higher margins, superior free cash flow conversion, and stronger balance sheet.
+
+Relative to Block, Adyen commands a premium due to its enterprise focus, global scalability, and lower earnings volatility.
+
+Overall, peer multiples imply that the market is willing to pay a sustained premium for Adyen’s long-term growth durability and platform quality, consistent with the assumptions embedded in the reverse DCF analysis.
+
+This premium valuation is consistent with the reverse DCF results, which indicate that current market prices embed a long-term growth assumption materially above conservative base-case estimates.
 
 ---
 
