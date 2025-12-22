@@ -73,16 +73,15 @@ We will gather both **LTM (Last Twelve Months)** and **NTM (Next Twelve Months)*
 
 # 4. Peer Multiples Table (Empty Template)
 
-### Tier 1 Peer Table (will hold actual market multiples later)
+### Tier 1 Peer Table — Trading Multiples Snapshot (TTM)
 
 | Company | EV/Sales (TTM) | EV/EBITDA (TTM) | P/E (TTM) | P/E (NTM) | Revenue Growth | EBITDA Margin |
-|--------|----------------|-----------------|-----------|-----------|----------------|----------------|
-| **Adyen** | 12.8x | 21.4x | 42.6x | 30.5x | ~19% | ~45% |
-| Stripe | — | — | — | — | — | — | — | — |
-| Checkout.com | — | — | — | — | — | — | — | — |
-| PayPal | — | — | — | — | — | — | — | — |
-| Block | — | — | — | — | — | — | — | — |
-| Global Payments | — | — | — | — | — | — | — | — |
+|-------|----------------|-----------------|-----------|-----------|----------------|---------------|
+| **Adyen** | ~12.8x | ~21.4x | ~42.6x | ~30.5x | ~19% | ~45% |
+| PayPal | ~1.7x | ~7.5x | ~12.0x | ~10.3x | ~7% | ~20% |
+| Block (Square) | ~1.4x | ~12.8x | ~13.1x | ~19.6x | ~2–3% | ~7% |
+| Global Payments | ~3.2x | ~7.6x | ~12.3x | ~6.0x | ~0–1% | ~32% |
+| Fiserv (Clover) | ~3.1x | ~7.3x | ~10.5x | ~8.0x | low single-digit | ~30% |
 
 Adyen trades at a material premium to global payment peers, reflecting superior margins, balance sheet strength, and perceived long-term growth durability.
 ---
