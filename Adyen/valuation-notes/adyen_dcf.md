@@ -1,7 +1,20 @@
 # 📉 Discounted Cash Flow (DCF) Framework – Adyen N.V. (Draft)
+# Adyen — DCF Valuation  
+## Executive Summary
 
-This document defines the structure and formulas required to build a complete DCF valuation for Adyen.
-No calculations are included. All placeholders will be filled once the forecast model is finalized.
+- This analysis presents a fundamental valuation of Adyen N.V. based on a full Discounted Cash Flow (DCF) model, incorporating conservative operating assumptions and a disciplined view on long-term growth and cost of capital.
+
+- Under the base case scenario, the DCF implies an **Enterprise Value of approximately €17.1bn** and an **Equity Value of c. €23.6bn**, corresponding to a **fair value of ~€750 per share**.
+
+- Key valuation assumptions include a **WACC of 8.8%**, a **terminal growth rate of 2.5%**, and a gradual normalization of growth and margins over the forecast period (2025–2028).
+
+- A comprehensive sensitivity analysis (WACC × terminal growth) indicates that valuation outcomes are highly sensitive to terminal assumptions, with reasonable scenarios implying equity values materially below the current market price.
+
+- At the current market price of approximately **€1,526 per share**, Adyen trades at a significant premium to the base-case DCF valuation. A reverse DCF analysis suggests that the market is implicitly pricing in either a **structurally lower cost of capital (c. 6.5–7.0%)**, a **substantially higher long-term growth rate (c. 5–6%)**, or a combination of both.
+
+- While Adyen remains a best-in-class global payments platform with strong competitive positioning and long-term structural tailwinds, the current valuation leaves **limited margin of safety** under conservative fundamental assumptions.
+
+- Overall, the analysis highlights a clear divergence between intrinsic value under a disciplined DCF framework and the expectations embedded in the current market price, making valuation risk the primary consideration for investors at current levels.
 
 ---
 
