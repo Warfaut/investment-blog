@@ -34,6 +34,12 @@ Under such assumptions, more than 90% of enterprise value is driven by terminal 
 ---
 
 ## Interpretation
-The implied terminal growth rate materially exceeds long-term nominal GDP growth, suggesting that the market prices Adyen as a structurally exceptional compounder rather than a mature payments infrastructure provider.
 
-This helps explain why market valuation sits above the intrinsic value derived under conservative assumptions.
+The implied terminal growth rate of approximately 6.1% materially exceeds long-term nominal GDP growth and the conservative base-case assumption of 2.5%.
+
+This indicates that the current market valuation reflects expectations of:
+- structurally superior long-term growth,
+- sustained high free cash flow conversion,
+- and a lower perceived long-term business risk than assumed in the base-case DCF.
+
+As a result, the divergence between the intrinsic value derived under conservative assumptions and the current market price is primarily driven by differences in long-term growth expectations rather than near-term cash flow forecasts.
