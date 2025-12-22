@@ -75,15 +75,16 @@ We will gather both **LTM (Last Twelve Months)** and **NTM (Next Twelve Months)*
 
 ### Tier 1 Peer Table (will hold actual market multiples later)
 
-| Company | EV/Sales (LTM) | EV/Sales (NTM) | EV/EBITDA (LTM) | EV/EBITDA (NTM) | P/E (LTM) | P/E (NTM) | Revenue Growth | EBITDA Margin |
-|---------|-----------------|----------------|------------------|------------------|------------|------------|----------------|----------------|
-| **Adyen** | — | — | — | — | — | — | — | — |
+| Company | EV/Sales (TTM) | EV/EBITDA (TTM) | P/E (TTM) | P/E (NTM) | Revenue Growth | EBITDA Margin |
+|--------|----------------|-----------------|-----------|-----------|----------------|----------------|
+| **Adyen** | 12.8x | 21.4x | 42.6x | 30.5x | ~19% | ~45% |
 | Stripe | — | — | — | — | — | — | — | — |
 | Checkout.com | — | — | — | — | — | — | — | — |
 | PayPal | — | — | — | — | — | — | — | — |
 | Block | — | — | — | — | — | — | — | — |
 | Global Payments | — | — | — | — | — | — | — | — |
 
+Adyen trades at a material premium to global payment peers, reflecting superior margins, balance sheet strength, and perceived long-term growth durability.
 ---
 
 ### Tier 2 Peer Table (Optional)
