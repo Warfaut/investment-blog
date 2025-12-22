@@ -1,141 +1,93 @@
-# 📋 Peer Multiples – Comparative Valuation Framework (Draft)
+# 📋 Peer Multiples — Comparative Valuation (Adyen)
 
-This document defines the structure for the peer comparison analysis used in valuing Adyen.
-No numerical values are included yet. Multiples will be inserted after we gather market data.
+This document compares Adyen’s valuation against a selected group of public payment peers to contextualize the DCF results and explain the market-implied premium.
 
----
-
-# 1. Purpose of Peer Analysis
-
-Peer valuation helps benchmark Adyen against companies operating in:
-
-- global payments processing  
-- PSP infrastructure  
-- unified commerce  
-- embedded finance  
-- high-growth fintech  
-
-The goal is to estimate Adyen’s **fair value range** using:
-
-- EV/Sales  
-- EV/EBITDA  
-- EV/EBIT  
-- P/E  
-- FCF Yield  
+Peer analysis is used as a **cross-check**, not a replacement, for intrinsic valuation.
 
 ---
 
-# 2. Peer Group Definition
+## 1. Peer Group Selection
 
-Peers are split into **Tier 1** (closest competitors) and **Tier 2** (secondary references).
+The peer group focuses on large, established global payment platforms with meaningful merchant acquiring, processing, or payment infrastructure exposure.
 
----
+### Selected Peers
 
-## 🔹 Tier 1 – Core Peers (Most Relevant)
-
-| Company | Ticker | Region | Rationale |
-|---------|--------|---------|-----------|
-| **Stripe** | Private | US | Most similar infrastructure-first payment platform |
-| **Checkout.com** | Private | UK | High-growth PSP, enterprise online focus |
-| **PayPal** | PYPL | US | Global merchant + consumer payments ecosystem |
-| **Block (Square)** | SQ | US | POS + ubiquity in SMB, integrated ecosystem |
-| **Global Payments** | GPN | US | Large enterprise processor |
-| **Fiserv / Clover** | FI | US | Strong POS footprint and merchant acquiring |
+- **[Adyen](chatgpt://generic-entity?number=0)** — reference company  
+- **[PayPal](chatgpt://generic-entity?number=1)** — global consumer + merchant payments  
+- **[Block](chatgpt://generic-entity?number=2)** — ecosystem-driven merchant platform  
+- **[Global Payments](chatgpt://generic-entity?number=3)** — large-scale enterprise processor  
+- **[Fiserv](chatgpt://generic-entity?number=4)** — legacy processor with Clover POS exposure  
 
 ---
 
-## 🔹 Tier 2 – Secondary Peers (Supportive Cross-Check)
+## 2. Peer Multiples Snapshot (TTM)
 
-| Company | Ticker | Region | Notes |
-|---------|--------|--------|-------|
-| **Worldline** | WLN | EU | Legacy PSP, slower growth |
-| **Nexi** | NEXI | EU | Large acquirer with weaker margins |
-| **Lightspeed** | LSPD | CA | SMB POS ecosystem |
-| **Shift4** | FOUR | US | High-growth merchant processor |
+All figures are based on latest available TTM data and rounded for comparability.
 
----
+### Tier 1 Peer Table
 
-# 3. Multiples to Be Collected (Template)
-
-We will gather both **LTM (Last Twelve Months)** and **NTM (Next Twelve Months)** multiples:
-
-### 💰 Valuation Multiples
-
-| Metric | Description |
-|--------|-------------|
-| **EV/Sales** | Best for comparing high-growth fintechs |
-| **EV/EBITDA** | Core profitability benchmark |
-| **EV/EBIT** | Adjusts for D&A differences |
-| **P/E** | Measures earnings-based value |
-| **FCF Yield** | Cash generation benchmark |
+| Company | EV/Sales (TTM) | EV/EBITDA (TTM) | P/E (TTM) | Revenue Growth | EBITDA Margin |
+|-------|----------------|-----------------|-----------|----------------|---------------|
+| **Adyen** | **~12.8x** | **~21.4x** | **~42.6x** | ~19% | ~45% |
+| PayPal | ~1.7x | ~7.6x | ~12.0x | ~7% | ~20% |
+| Block | ~1.4x | ~12.8x | ~13.1x | ~2% | ~7% |
+| Global Payments | ~3.3x | ~7.6x | ~12.3x | ~1% | ~32% |
+| Fiserv | ~3.1x | ~7.3x | ~10.5x | low-single digit | ~30% |
 
 ---
 
-# 4. Peer Multiples Table (Empty Template)
+## 3. Key Observations
 
-### Tier 1 Peer Table — Trading Multiples Snapshot (TTM)
+### 1️⃣ Adyen Trades at a Structural Premium
 
-| Company | EV/Sales (TTM) | EV/EBITDA (TTM) | P/E (TTM) | P/E (NTM) | Revenue Growth | EBITDA Margin |
-|-------|----------------|-----------------|-----------|-----------|----------------|---------------|
-| **Adyen** | ~12.8x | ~21.4x | ~42.6x | ~30.5x | ~19% | ~45% |
-| PayPal | ~1.7x | ~7.5x | ~12.0x | ~10.3x | ~7% | ~20% |
-| Block (Square) | ~1.4x | ~12.8x | ~13.1x | ~19.6x | ~2–3% | ~7% |
-| Global Payments | ~3.2x | ~7.6x | ~12.3x | ~6.0x | ~0–1% | ~32% |
-| Fiserv (Clover) | ~3.1x | ~7.3x | ~10.5x | ~8.0x | low single-digit | ~30% |
+Adyen commands a **material valuation premium** across all key multiples:
 
-Adyen trades at a material premium to global payment peers, reflecting superior margins, balance sheet strength, and perceived long-term growth durability.
----
+- EV/Sales is **4–9x higher** than peers  
+- EV/EBITDA is **~2–3x higher**  
+- P/E reflects a long-duration growth profile rather than near-term earnings  
 
-
-
-## 5. Implied Valuation Range (Directional)
-
-Based on a comparative review of public peers (PayPal, Block, Global Payments, Fiserv), Adyen trades at a clear premium across most valuation metrics, reflecting its superior margins, growth profile, and balance sheet strength.
-
-The table below presents a **directional implied valuation range** derived from observed peer multiples.
-
-
-### Template Table
-
-| Multiple Type | Low | Base | High |
-|---------------|-----|------|------|
-| EV/Sales | Mature processors (GPN, FISV) | Adyen at current multiple | Premium SaaS-like PSP |
-| EV/EBITDA | PayPal / GPN range | Adyen current | Long-duration compounder |
-| P/E | Traditional payments | Adyen current | Structural growth premium |
-| FCF Yield | Cash generative peers | Adyen current | Best-in-class durability |
-
-Across EV/Sales and EV/EBITDA multiples, Adyen trades meaningfully above mature payment processors such as Global Payments and Fiserv, and at a premium to PayPal, reflecting its structurally higher margins, superior free cash flow conversion, and stronger balance sheet.
-
-Relative to Block, Adyen commands a premium due to its enterprise focus, global scalability, and lower earnings volatility.
-
-Overall, peer multiples imply that the market is willing to pay a sustained premium for Adyen’s long-term growth durability and platform quality, consistent with the assumptions embedded in the reverse DCF analysis.
-
-This premium valuation is consistent with the reverse DCF results, which indicate that current market prices embed a long-term growth assumption materially above conservative base-case estimates.
+This premium is not driven by short-term earnings, but by expectations of **sustained growth, superior margins, and capital efficiency**.
 
 ---
 
-# 6. Notes for Future Calculation
+### 2️⃣ Margin Quality Is the Core Differentiator
 
-When we move to the numerical analysis phase, we will:
+Adyen’s EBITDA margin (~45%) materially exceeds that of peers:
 
-### 1️⃣ Pull real market data for each peer  
-- Market caps  
-- EV (including net debt)  
-- Analyst consensus forecasts  
+- PayPal and Block operate with significantly lower margins due to consumer exposure, marketing intensity, and ecosystem subsidies.
+- Global Payments and Fiserv show solid margins, but face lower growth and higher legacy integration complexity.
 
-### 2️⃣ Normalize multiples  
-- Remove outliers  
-- Adjust for different fiscal years  
-- Compare growth-adjusted multiples  
-
-### 3️⃣ Create valuation ranges  
-- Low = conservative peers  
-- Base = median peer  
-- High = premium peers  
+Adyen’s combination of **high margins + meaningful growth** is unique within the peer group.
 
 ---
 
-# 7. Summary
+### 3️⃣ Growth-Adjusted Multiples Still Favor Adyen
 
-This document establishes the full structure for the comparative valuation of Adyen.
+While Adyen’s headline multiples appear expensive, growth-adjusted comparisons remain supportive:
+
+- Adyen grows **~2–3x faster** than mature processors  
+- Free cash flow conversion is structurally higher  
+- Net cash balance sheet reduces financial risk  
+
+This supports the market’s willingness to assign a premium multiple.
+
+---
+
+## 4. Implications for Valuation
+
+Peer multiples reinforce the conclusions from the DCF and reverse DCF analysis:
+
+- The market prices Adyen as a **long-duration compounder**, not as a mature payments utility.
+- Relative to peers, Adyen is valued closer to a **quality infrastructure asset with secular tailwinds** than to cyclical payment processors.
+- The valuation premium is consistent with expectations of prolonged above-GDP growth and sustained margin leadership.
+
+---
+
+## 5. Conclusion
+
+The peer multiple analysis explains why Adyen trades above conservative DCF-derived intrinsic value.
+
+While the valuation leaves limited margin of safety under conservative assumptions, it remains internally consistent when viewed through the lens of long-term growth durability, margin quality, and competitive positioning.
+
+Peer comparisons therefore **validate the market’s expectations**, even if they exceed conservative base-case intrinsic estimates.
 Once market data is gathered, all fields will be populated to build the final valuation output.
