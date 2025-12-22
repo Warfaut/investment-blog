@@ -86,16 +86,7 @@ We will gather both **LTM (Last Twelve Months)** and **NTM (Next Twelve Months)*
 Adyen trades at a material premium to global payment peers, reflecting superior margins, balance sheet strength, and perceived long-term growth durability.
 ---
 
-### Tier 2 Peer Table (Optional)
 
-| Company | EV/Sales | EV/EBITDA | P/E | Revenue Growth | EBITDA Margin |
-|---------|-----------|------------|------|----------------|----------------|
-| Worldline | — | — | — | — | — |
-| Nexi | — | — | — | — | — |
-| Lightspeed | — | — | — | — | — |
-| Shift4 | — | — | — | — | — |
-
----
 
 # 5. Implied Valuation Range (Template)
 
