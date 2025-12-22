@@ -189,14 +189,15 @@ or a combination of both.
 These assumptions require a high degree of confidence in Adyen’s long-term growth durability and risk profile relative to global peers.
 
 ---
+## Investment Conclusion
 
-## 11. Investment Conclusion
+Adyen represents a best-in-class global payments platform with exceptional margins, strong free cash flow generation, and a structurally advantaged business model.
 
-Adyen appears **fully valued to overvalued** under a conservative base-case DCF framework. While the company benefits from best-in-class technology, strong merchant relationships, and long-term structural growth in digital payments, the current valuation embeds optimistic assumptions regarding long-term growth durability and/or a structurally lower cost of capital.
+However, under a disciplined DCF framework with conservative long-term assumptions (WACC 8.8%, terminal growth 2.5%), the stock appears fully valued to modestly overvalued at current market prices.
 
-Under the base-case scenario, the implied intrinsic equity value is materially below the current market price, resulting in **limited upside and an asymmetric risk-reward profile** for valuation-driven investors. Sensitivity analysis further highlights that a meaningful upside requires either a sustained terminal growth rate well above nominal GDP or a materially lower long-term WACC, both of which leave limited margin for execution error.
+While upside remains possible under scenarios of structurally lower cost of capital or sustained premium growth, the current valuation leaves limited margin of safety for valuation-driven investors.
 
-As a result, the primary investment risk at current levels is **valuation-driven rather than operational**. While Adyen may continue to outperform operationally, future shareholder returns are likely to be increasingly dependent on multiple expansion or continued market optimism, rather than fundamental cash flow upside.
+As a result, Adyen may remain attractive for high-conviction long-term investors, but expected returns from current levels are highly sensitive to terminal assumptions.ment risk at current levels is **valuation-driven rather than operational**. While Adyen may continue to outperform operationally, future shareholder returns are likely to be increasingly dependent on multiple expansion or continued market optimism, rather than fundamental cash flow upside.
 
 ## Bottom line:
 Adyen remains a high-quality compounder, but at current prices it is best suited for investors with high conviction in structurally superior growth and long-term competitive advantages. For disciplined fundamental investors, a more attractive entry point would likely require either a material price correction or clear evidence of sustainably higher long-term growth than assumed in the base case.
