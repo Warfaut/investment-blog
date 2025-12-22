@@ -20,16 +20,10 @@ Deep dives into public companies, including:
 - Valuation (DCF + multiples)
 - Investment thesis
 
-📁 Folder:
-
-- [Adyen – Financial Overview (H2 2023 → H1 2025)](Adyen/company-analyses/adyen_financial_overview.md)
-
 ---
 
 ### 🌍 **Market & Sector Research**
 Industry breakdowns, TAM/SAM/SOM estimates, macro trends, and emerging opportunities.
-
-📁 Folder: [/market-research](/market-research)
 
 ---
 
@@ -41,7 +35,6 @@ Short, practical explanations of:
 - Multiples and comparables  
 - Capital structure decisions  
 
-📁 Folder: [/valuation-notes](/valuation-notes)
 
 ---
 
@@ -51,8 +44,6 @@ Python notebooks for:
 - Financial data pipelines
 - Time series analysis  
 - Backtesting simple strategies
-
-📁 Folder: [/python-analytics](/python-analytics)
 
 ---
 
