@@ -1,4 +1,4 @@
-# 📉 Discounted Cash Flow (DCF) Framework – Adyen N.V. (Draft)
+# 📉 Discounted Cash Flow (DCF) Valuation – Adyen N.V.
 # Adyen — DCF Valuation  
 ## Executive Summary
 
