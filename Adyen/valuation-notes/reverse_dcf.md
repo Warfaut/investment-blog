@@ -23,15 +23,13 @@ Rather than deriving value from assumptions, the model infers the assumptions re
 
 ---
 
-## Reverse DCF Result – Implied Terminal Growth
+## Reverse DCF — Market Implied Terminal Growth
 
-To reconcile the DCF model with the current market-implied enterprise value, the terminal growth rate must increase from the base-case assumption of 2.5% to approximately **X.X%**.
+Using the current market-implied enterprise value of approximately €36.6bn and holding all base-case DCF assumptions constant (including WACC of 8.8% and explicit FCF forecasts for 2025–2028), the model implies a terminal growth rate of approximately **6.1%**.
 
-This implies that the market expects Adyen to sustain:
+This implied growth rate materially exceeds long-term nominal GDP growth and the conservative base-case assumption of 2.5%, indicating that the market prices Adyen as a structurally exceptional long-duration compounder.
 
-- structurally higher long-term growth, and/or
-- persistently superior competitive positioning, and/or
-- lower long-term risk than assumed in the conservative base case.
+Under such assumptions, more than 90% of enterprise value is driven by terminal value, highlighting the sensitivity of current valuation to long-term growth expectations and discount rates.
 
 ---
 
