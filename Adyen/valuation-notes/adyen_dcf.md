@@ -1,4 +1,4 @@
-# Discounted Cash Flow (DCF) Valuation — Adyen N.V.
+€# Discounted Cash Flow (DCF) Valuation — Adyen N.V.
 
 ## Executive Summary
 
@@ -192,11 +192,12 @@ These assumptions require a high degree of confidence in Adyen’s long-term gro
 
 ## 11. Investment Conclusion
 
-Adyen remains a best-in-class global payments platform with strong competitive positioning, high-quality merchant relationships, and favorable long-term industry tailwinds.
+Adyen appears **fully valued to overvalued** under a conservative base-case DCF framework. While the company benefits from best-in-class technology, strong merchant relationships, and long-term structural growth in digital payments, the current valuation embeds optimistic assumptions regarding long-term growth durability and/or a structurally lower cost of capital.
 
-However, under conservative and disciplined fundamental assumptions, the current market valuation leaves limited margin of safety. The primary investment risk at current levels is valuation-driven rather than operational.
+Under the base-case scenario, the implied intrinsic equity value is materially below the current market price, resulting in **limited upside and an asymmetric risk-reward profile** for valuation-driven investors. Sensitivity analysis further highlights that a meaningful upside requires either a sustained terminal growth rate well above nominal GDP or a materially lower long-term WACC, both of which leave limited margin for execution error.
 
-**Conclusion:**  
-Adyen appears **fully valued to overvalued** under a base-case DCF framework. The stock may remain attractive for investors with high conviction in structurally superior growth and lower long-term risk, but offers limited upside for valuation-driven investors without a more favorable entry point.
-- valuation sensitivity.
+As a result, the primary investment risk at current levels is **valuation-driven rather than operational**. While Adyen may continue to outperform operationally, future shareholder returns are likely to be increasingly dependent on multiple expansion or continued market optimism, rather than fundamental cash flow upside.
+
+## Bottom line:
+Adyen remains a high-quality compounder, but at current prices it is best suited for investors with high conviction in structurally superior growth and long-term competitive advantages. For disciplined fundamental investors, a more attractive entry point would likely require either a material price correction or clear evidence of sustainably higher long-term growth than assumed in the base case.
 
