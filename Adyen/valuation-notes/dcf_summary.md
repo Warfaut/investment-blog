@@ -1,83 +1,94 @@
-# Discounted Cash Flow Valuation — Adyen N.V.
+# DCF Valuation Summary — Adyen N.V.
 
-This document summarises the final DCF valuation for Adyen N.V., integrating
-operating forecasts, free cash flow projections, terminal value assumptions,
-and discounting methodology.
+## Overview
 
----
+This document summarises the results of a full Discounted Cash Flow (DCF) valuation of Adyen N.V., based on explicitly forecast free cash flows for the period 2025–2028 and a Gordon Growth terminal value.
 
-## 1. Key Valuation Inputs
-
-| Parameter | Assumption |
-|--------|-----------|
-| Base WACC | 8.8% |
-| Terminal growth (g) | 2.5% |
-| Terminal year | 2028E |
-| Terminal value method | Gordon Growth (primary) |
-| Exit multiple (cross-check) | 16× EV / EBITDA |
+The objective of this summary is to present the key valuation conclusions, core assumptions, and sensitivity outcomes, without duplicating the detailed Excel model or the full DCF framework documented elsewhere in the repository.
 
 ---
 
-## 2. Free Cash Flow Forecast (€m)
+## Key Valuation Assumptions
 
-| Year | Free Cash Flow |
-|------|----------------|
-| 2025E | 717 |
-| 2026E | 845 |
-| 2027E | 975 |
-| 2028E | 1,105 |
+The base-case DCF model is built on the following high-level assumptions:
 
-*Note: FCF figures are derived from the operating forecast and EBIT-to-FCF bridge.*
+- **Base year:** 2024 (last full historical year)
+- **Forecast period:** 2025–2028
+- **WACC:** 8.8%
+- **Terminal growth rate (g):** 2.5%
+- **Terminal value method:** Gordon Growth
+- **Business profile:** asset-light global payments platform with strong free cash flow conversion
 
----
+Revenue growth assumptions reflect a gradual normalisation from elevated post-pandemic growth levels toward mature, structurally supported expansion:
 
-## 3. Discount Factors
+- 2025E: 10%  
+- 2026E: 15%  
+- 2027E: 13%  
+- 2028E: 11%
 
-| Year | Discount Factor (8.8%) |
-|------|------------------------|
-| 2025E | 0.919 |
-| 2026E | 0.845 |
-| 2027E | 0.776 |
-| 2028E | 0.713 |
+Operating margins and capital intensity are aligned with Adyen’s historical averages and recent normalisation trends.
 
 ---
 
-## 4. Present Value of Cash Flows (€m)
+## DCF Results (Base Case)
 
-| Component | Present Value |
-|----------|---------------|
-| PV of explicit FCF | 2,918 |
-| PV of terminal value | 12,834 |
-| **Enterprise Value (EV)** | **15,752** |
+All figures below are expressed in **€ millions**, unless stated otherwise.
 
----
+- **Present value of explicit FCF (2025–2028):** ~€3.24bn  
+- **Terminal value (Gordon Growth):** ~€19.4bn  
+- **Present value of terminal value:** ~€13.8bn  
 
-## 5. Terminal Value Summary
+### Enterprise Value (EV)
+- **Implied Enterprise Value:** **~€17.1bn**
 
-| Method | Terminal Value (€m) |
-|------|---------------------|
-| Gordon Growth | ~18,000 |
-| Exit Multiple (16×) | ~26,800 |
+### Equity Value Bridge
+- **Net cash & short-term investments:** ~€6.5bn  
+- **Equity Value:** **~€23.6bn**
 
-The Gordon Growth method is used as the primary valuation anchor, with the exit
-multiple serving as a market-based cross-check.
-
----
-
-## 6. Valuation Interpretation
-
-The resulting enterprise value reflects Adyen’s strong competitive positioning,
-high-margin operating profile, and long-term growth potential, while remaining
-anchored to conservative long-term assumptions.
-
-Sensitivity analysis indicates that valuation outcomes are most influenced by
-changes in the discount rate and terminal growth assumptions, reinforcing the
-importance of disciplined input selection.
+### Per-Share Valuation
+- **Shares outstanding:** ~31.4m  
+- **Implied value per share:** **~€750**
 
 ---
 
-## 7. Next Steps
+## Sensitivity Summary (WACC × Terminal Growth)
 
-- Translate enterprise value into equity value (net cash adjustment)
-- Perform upside/downside scenario analysis
-- Compare intrinsic valuation with current market capitalisation
+DCF outcomes are highly sensitive to both the discount rate and terminal growth assumptions.
+
+**Equity Value sensitivity (€ per share):**
+
+| WACC \ g | 2.0% | 2.5% | 3.0% |
+|--------|------|------|------|
+| 8.0% | ~770 | ~814 | ~867 |
+| 8.5% | ~734 | ~772 | ~816 |
+| **8.8%** | ~716 | **~750** | ~790 |
+| 9.0% | ~704 | ~736 | ~774 |
+| 9.5% | ~678 | ~706 | ~739 |
+
+This highlights that relatively small changes in long-term assumptions can materially impact intrinsic value estimates.
+
+---
+
+## Market vs Intrinsic Value
+
+At the time of analysis, Adyen’s market price implies an equity valuation materially above the base-case DCF outcome.
+
+Under conservative assumptions (WACC 8.8%, g 2.5%), the model suggests that the market is pricing in either:
+
+- a structurally lower long-term cost of capital,  
+- sustainably higher terminal growth,  
+- or a combination of both.
+
+This places the current valuation toward the upper end of the reasonable intrinsic value range derived from the DCF.
+
+---
+
+## Investment Takeaway
+
+Under a disciplined base-case DCF framework, **Adyen appears fairly valued to moderately overvalued**.
+
+While the company remains a best-in-class global payments platform with strong competitive positioning, high margins, and excellent free cash flow generation, the current valuation leaves **limited margin of safety** for investors relying purely on fundamental valuation upside.
+
+The investment case therefore hinges less on near-term valuation re-rating and more on long-term conviction in Adyen’s ability to sustain superior growth, defend margins, and justify premium terminal assumptions over an extended horizon.
+
+For valuation-driven investors, entry point and assumption discipline remain critical.
