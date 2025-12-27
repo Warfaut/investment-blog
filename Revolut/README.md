@@ -1,3 +1,7 @@
+**Period:** FY2020–FY2024  
+**Sources:** Revolut IFRS annual reports (public filings)  
+**Currency:** GBP
+
 # Revolut — Growth, Monetisation & Cash Flow Quality Analysis
 
 This repository contains a fundamental, data-driven analysis of **Revolut**, focused on understanding the **quality of growth**, **monetisation dynamics**, **operating leverage**, and **cash flow sustainability**.
